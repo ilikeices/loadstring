@@ -1,0 +1,2 @@
+--https://www.roblox.com/games/123974602339071
+loadtring(game:HttpGet("https://raw.githubusercontent.com/ilikeices/script/refs/heads/main/sonic.luau"))()
