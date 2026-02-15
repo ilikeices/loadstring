@@ -1,0 +1,2 @@
+--https://www.roblox.com/games/123974602339071/UP-Just-a-baseplate
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ilikeices/script/refs/heads/main/pumkin.luau"))()
